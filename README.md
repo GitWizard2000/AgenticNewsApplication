@@ -92,7 +92,7 @@ streamlit run AgenticNewsApp.py
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+Free to use!
 
 ## Acknowledgments
 
